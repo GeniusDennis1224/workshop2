@@ -1,0 +1,8 @@
+aws ecr get-login-password --region us-east-2 | docker login --username AWS --password-stdin 783644967839.dkr.ecr.us-east-2.amazonaws.com
+
+repository URL：783644967839.dkr.ecr.us-east-2.amazonaws.com/workshop2
+
+Endpoint
+nctutorials.cetwhl10zcq9.us-east-2.rds.amazonaws.com
+
+Github URL for workshop2: https://github.com/GeniusDennis1224/workshop2.git
